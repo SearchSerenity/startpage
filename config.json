@@ -9,7 +9,7 @@
     },
     { "name": "media", "links": [
         { "name": "Netflix", "url": "https://www.netflix.com/" },
-        { "name": "goodreads", "url": "https://www.goodreads.com/" },
+        { "name": "twitter", "url": "https://twitter.com/home" },
         { "name": "imgur", "url": "http://imgur.com/" }
       ]
     },
